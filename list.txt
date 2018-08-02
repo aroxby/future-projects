@@ -1,7 +1,7 @@
 Network CB
 Windowing Lib
 Networking Lib
-Systray Lib
+Systray Lib (https://github.com/aroxby/NotifyIcon)
 Fallout 4 cheat weapons
 Network Drive GUI
 Distributed DNS Service
@@ -9,3 +9,6 @@ LGATV Style Fail Button (Actually, LAGTV guys might use that)
 Desktop pip-boy companion app
 API for G.Skill keyboard lights
 Twitter bot
+WxWidgets Test
+Coke Rewards app/api
+Steam cloud file manager
