@@ -3,6 +3,9 @@ Windowing Lib
 Networking Lib
 Systray Lib (https://github.com/aroxby/NotifyIcon)
 Fallout 4 cheat weapons
+Fallout 4 Bots
+Fallout 76 Mod Manager
+Proxy Analyzer (https://github.com/SilentModders/proxy-analyzer)
 Network Drive GUI
 Distributed DNS Service
 LGATV Style Fail Button (Actually, LAGTV guys might use that)
