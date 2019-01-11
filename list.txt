@@ -14,3 +14,4 @@ API for G.Skill keyboard lights
 Twitter bot
 WxWidgets Test
 Coke Rewards app/api
+SysTray Docker agent for Windows with docker-machine
